@@ -30,7 +30,7 @@ I am a Fullstack Software Engineer.
 
 <div align="center">
 
-  ![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sun-Mountain&show_icons=true&theme=radical)<br /><br />
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sun-Mountain&layout=compact&theme=radical)
+  [![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sun-Mountain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br /><br />
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sun-Mountain&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
