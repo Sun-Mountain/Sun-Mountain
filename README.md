@@ -25,3 +25,11 @@ I am a Fullstack Software Engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40" />
 </div>
+
+---
+
+## Stats
+
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Sun-Mountain&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
