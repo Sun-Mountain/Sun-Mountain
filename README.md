@@ -30,6 +30,6 @@ I am a Fullstack Software Engineer.
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Sun-Mountain&theme=radical)](https://git.io/streak-stats)
+  ![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sun-Mountain&show_icons=true&theme=radical)
 
 </div>
