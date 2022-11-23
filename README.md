@@ -6,13 +6,9 @@
   </div>
 </div>
 
----
-
 ## About Me
 
 I am a Fullstack Software Engineer.
-
----
 
 ## Languages & Tools
 
@@ -26,8 +22,10 @@ I am a Fullstack Software Engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40" />
 </div>
 
----
-
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sun-Mountain&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Sun-Mountain&theme=radical)](https://git.io/streak-stats)
+
+</div>
