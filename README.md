@@ -10,10 +10,6 @@
 
 I am a Fullstack Software Engineer.
 
-- I am currently working as a SE at [Fearless](https://fearless.tech).
-- I am a Co Organizer for [Bmore Code & Coffee Meetup](https://www.meetup.com/baltimore-code-and-coffee/).
-- In my free time I do circus arts or just craft arts.
-
 ## Languages & Tools
 
 <div align="center">
